@@ -234,7 +234,7 @@ const OneLast = () => {
               >
                 <video
                   className="w-full h-full object-cover"
-                  src="https://1drv.ms/v/c/bffcc29e2143c9ef/IQBR8JPU2genQb1NpJtJOFg0ATshXlgWRmPcoQrkp_1LE78?e=zoWhe7"
+                  src="https://ik.imagekit.io/deep01ak/princes-slimcast.mp4"
                   controls
                 //   autoPlay
                   unmuted
