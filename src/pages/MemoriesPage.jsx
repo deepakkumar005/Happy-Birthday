@@ -14,7 +14,7 @@ const memories = [
   {
     emoji: "🦆",
     title: "",
-    description: "Herione",
+    description: "Actress",
     color: "from-pink-400 to-rose-300",
     glow: "rgba(244,114,182,0.3)",
     dot: "#f472b6",
@@ -74,7 +74,7 @@ const memories = [
   },
   {
     emoji: "🔥",
-    title: "Rizz",
+    title: "Hotness",
     description: "Baat toh hai kuch",
     color: "from-violet-500 to-purple-400",
     glow: "rgba(167,139,250,0.3)",
