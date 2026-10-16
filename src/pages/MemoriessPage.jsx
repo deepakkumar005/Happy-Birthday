@@ -707,7 +707,7 @@ function CalculatorCard({
 
     if (val === "Enter") {
       // eslint-disable-next-line no-eval
-      if (value === "01012026") {
+      if (value === "112026") {
         setFlag(true);
         setValue("0");
         console.log("vvalue of flag is", isFlag);
