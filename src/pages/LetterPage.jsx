@@ -20,10 +20,10 @@ const letterLines = [
     text: "Kha se shuru krru? Such khu to tere sath bitaya hua hrr pal bhot jyada precious rha yrr and I want ki mai ese hi life long tere sath ye memoreis bnata rhu —",
     type: "body",
   },
-  { text: "Because you're my pyaara sa favourite person, and veryy ladaku bubu", type: "body" },
-  { text: "Isliye bss mai har baar teko hi choose krna chata hu. 💕", type: "body" },
+  { text: "Because you're my pyaara sa favourite person in this world, and veryy ladaku bubu", type: "body" },
+  { text: "Bss mai har baar aapko hi choose krna chata hu yr bacha. 💕", type: "body" },
   {
-    text: "Mujhe tujhse baat krna bhot acha lgta hain i forgot all my tiredness, my spoil moods",
+    text: "Mujhe aapse baat krna bhot acha lgta hain i forgot all my tiredness, my spoil moods",
     type: "body",
   },
   {
@@ -52,7 +52,7 @@ const letterLines = [
   { text: "all the love coming right back at you! 🌸", type: "body" },
   { text: "", type: "spacer" },
   { text: "I hope this year brings you:", type: "subheading" },
-  { text: "🌍 Adventures that take your breath away {vese zyda bhar mtt jana huhu}", type: "list" },
+  { text: "🌍 Adventures that take your breath away {vese zyda bhar mtt jana mere bina hehe }", type: "list" },
   { text: "🫶 Bhutt pyarr milee bhott sarra bhot hasio bhot khush rheo", type: "list" },
   { text: "💎 Growth that makes you even more amazing", type: "list" },
   { text: "🎀 Moments that become forever memories", type: "list" },
