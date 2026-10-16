@@ -223,7 +223,7 @@ const OneLast = () => {
                   you every second in my life and every momemt we spend
                   together🫶💕. I Hope we make more memories more momemts we
                   laugh, we cry(thoda sa hi) we do everything more this year🤞🦬
-                  BTW ik video gandi hai😭😭😭
+                  BTW i know video gandi hai😭😭😭
                 </p>
               </motion.section>
 

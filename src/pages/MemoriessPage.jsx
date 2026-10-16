@@ -111,7 +111,7 @@ const memoriess = [
   },
   {
     emoji: "🎀",
-    title: "Kuchu puchu",
+    title: "",
     description: "prettiest things in the world",
     color: "from-violet-500 to-purple-400",
     glow: "rgba(167,139,250,0.3)",
@@ -707,7 +707,7 @@ function CalculatorCard({
 
     if (val === "Enter") {
       // eslint-disable-next-line no-eval
-      if (value === "18102005") {
+      if (value === "01012026") {
         setFlag(true);
         setValue("0");
         console.log("vvalue of flag is", isFlag);

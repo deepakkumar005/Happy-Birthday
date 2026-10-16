@@ -14,12 +14,12 @@ const envelopes = [
     sealColor: "bg-rose-300",
     heartColor: "text-rose-400",
     sticker: "💙",
-    message: `bachaa, Sometimes ap bhot sad hoge Sometimes apka dil bharri hoga sometimes apke dimag mai kaafi thoughts aarhe honge. \n\n Par suno aise sad rhene se thodi chelga hnn apki sadness valid hogiaapki uss situation ki pareshani valid hogi khuch baar par phir bhi mere liye utho face wash kro betho bhagwan ji ko yaad kro unka path kro aurr ya toh phir mujhe call kro mai aapke sath rhunga jbtk ap wapis se thik nhi hote thodese prr call jarur krna tb ye mt sochna in case baat nhi ho rhi hain ya ladai ho gyi hain nhaa kuch matter nhi krta us wkt, uss wkt bs ap matter krte ho or aapki cheezein matter krti hain isliye call krlena bubu ya mujhe apni saari cheezin chats ke through btana samjhee. \n\n
-    aur sad mt rhio samjhi bacha sb acha hoga orr thik hojyega at the end bachaa \n\n
+    message: `bachaa, Sometimes ap bhot sad hoge Sometimes aapka dil bharri hoga sometimes apke dimag mai kaafi thoughts aarhe honge. \n\n Par suno aise sad rhene se thodi chelga hnn apki sadness valid hogi aapki uss situation ki pareshani valid hogi khuch baar par phir bhi mere liye utho face wash kro betho bhagwan ji ko yaad kro unka path kro aurr ya toh phir mujhe call kro mai aapke sath rhunga jbtk ap wapis se thik nhi hote thodese prr call jarur krna tb ye mt sochna in case baat nhi ho rhi hain ya ladai ho gyi hain nhaa kuch matter nhi krta us wkt, uss wkt bs ap matter krte ho or aapki cheezein matter krti hain isliye call krlena bubu ya mujhe apni saari cheezin chats ke through btaana samjhee. \n\n
+    aur sad mt rhena samjhi bacha sb acha hoga orr thik hojyega at the end bachaa \n\n
     Waqt hi toh hai nikl jyegaa🫂💗
     \n\n Aur haan… \n\n 
     Kabhi yeh mat sochna ki ap akela ho Bilkul bhi nhi. 
-    Main hamesha yahin hoon… apke saath… har us raat mein jab ap chupke se ro dete ho, aur har us subah mein jab ap dobara khud ko sambhalte ho.\n\n Aur hnn kaafi baar aap meri bewakoofi ki vzh se ya meri galtio ki vzh se bhot hurt ho jaatein ho aur aap hmesha ye realise krtein hoge ki mai iss insaan ke sath ku hi aayi prr mai aapke liye sudhrunga or jis bhi cheez se aapko pareshani hogi usse mai change krunga aapke liye or acha bnunga.
+    Main hamesha yahin hoon… apke saath… har us raat mein jab ap chupke se ro dete ho, aur har us subah mein jab aap dobara khud ko sambhalte ho.\n\n Aur hnn kaafi baar aap meri bewakoofi ki vzh se ya meri galtio ki vzh se bhot hurt ho jaatein ho aur aap hmesha ye realise krtein hoge ki mai iss insaan ke sath ku hi aayi prr mai aapke liye sudhrunga or jis bhi cheez se aapko pareshani hogi usse mai change krunga aapke liye or acha bnunga Bss uss wkt ke liye mujhe maaf kr dena bacha or mujhe kisi bhi vzh se chhor ke mtt jana.
     I am always with you no matter wo kya chiz hain, kya baat hain, kya situation hain, chaaye wo sukh ki baat ho ya dukh ki In everything I am with you always💕`,
     deco: ["✨", "🌸", "💫"],
   },
@@ -36,7 +36,7 @@ const envelopes = [
     Aao message kro ya call kro kabhi bhi kro soo rha hu ya kaam krrha hu ye mt sochoo kb krna hain \n\n
     bss krdo orr bolo santi se merse baat krro mujhe yaad aari hain\n\n
     haqq jatao ji aapka hu purra purra. bhull jaatein ho kya \n\n
-    haii hamari yaadey hamare momets kitne ladtein hai phir kitna hastein hai kitna khush rhe kitni msti ki hain humne aage bhi khub krenge\n\n
+    haii hamari yaadey hamare momets hamari ladaiyan hamra pyaar hum kitna hasse hai kitna khush rhe hain kitni msti ki hain humne sath mai aage bhi khub krenge aag lgga denge aag\n\n
     isliye jb bhi meri yaad aaye bss mere pass aa jana🫂💕🤞🌙`,
     deco: ["🌟", "💗", "🌙"],
   },
@@ -51,7 +51,7 @@ const envelopes = [
     sticker: "⭐",
     message: `Bhooootttttttt pitogeeeeee bhoootttttttt \n\n
     hahhahah, kyuu nhi aari jii ninni kya hua akele ho? ye to sochna bhi mtt samjhe hu na mai overthinking ho rhi hain? tension ho rhi hain?
-    itna kuch na socho bacha agr meri yaad aari hai toh miss me vla envelope padho or agr \n\n tension hori hai toh bacha thoda sa sojao thodi si ninni lelo vrna ese \n\n apki tabiyat khrb hojyegi or phir time lgta hai thik hone mai or phir aapkoo medecines leni padengi to ye to achi baat nhi hain na \n\n khrab nhi krni tabiyat sojao bhagwann ji kaa dhyan krke sarra unn prr chhor ke please sojao, \n\n or agr ese late sone jaaoge to uncle se daat khaani padegi aapko or mera bacha bina vzh daat ku khaye hena isliye bhi jldi se so jaao or jb uthoge na soke ek bhdiya si achii good news mielgi joh bhi tension hogi joh bhi overthinking ka reason hai woh sb thik hojyega \n\n
+    itna kuch na socho bacha agr meri yaad aari hai toh miss me vla envelope padho or agr \n\n tension hori hai toh bina tension liye bacha thoda sa sojao thodi si ninni lelo vrna ese \n\n apki tabiyat khrb hojyegi or phir time lgta hai thik hone mai or phir aapkoo medecines leni padengi to ye to achi baat nhi hain na \n\n khrab nhi krni tabiyat sojao bhagwann ji kaa dhyan krke sarra unn prr chhor ke please sojao, \n\n or agr ese late sone jaaoge to uncle se daat khaani padegi aapko or mera bacha bina vzh daat ku khaye hena isliye bhi jldi se so jaao or jb uthoge na soke ek bhot ache mood se uthoge aap and phir acha bhi feel hoga\n\n
     isliye abhi cute sa betu sojao Goodnight mera pyaara Bachaa🌛💕\n\n`,
     deco: ["🌛", "⭐", "💤"],
   },
@@ -67,8 +67,8 @@ const envelopes = [
     message: `oHhhh bhayiiiii \n\n
     phele hi bta rha hu santi se sun lo bss chup chap beth ke \n\n
     akele nhii hooo mai huu apke sathh apke pass hu mana thode din ke milna bnd ho gya hain prr sath rhena nhi\n\n
-    thik hai isliye bakwass naa krna kii mai alone hori nooo not at all mai apke sath hu apke lie hrr jagah hu Hmesha apni ladai ho ya na ho \n\n
-    prr mai apke sath hu apke pass hu and bacha u know na hum ab lifelong sath rhenge to bss aapke khene pai mai ese aapko akela ni na chhor skta or mera bacha chaye kitna bhi gussa ho jaaye mai hmesha usse apne pyaar se shaant krwaunga or uske sath rhunga \n\n
+    thik hai isliye bakwass naa krna kii mai alone hori nooo not at all mai aapke sath hu apake liye hrr jagah hu Hamesha apni ladai ho ya na ho \n\n
+    prr mai apke sath hu apke pass hu and bacha u know na hum ab lifelong sath rhenge to bss aapke khene pai mai ese aapko akela ni na chhor skta or mera bacha chaye kitna bhi gussa ho jaaye mai hmesha usse apne pyaar se shaant krwaunga or uske sath hi rhunga kuki mera bacha bss mera hain \n\n
     chaye kuch bhi ho samjee got It na I love youu I love youu so muchh!! \n\n chlo jaldi ab call kro mujhe hehe bhut baatey krege hum🫂💖`,
     deco: ["🫂", "💖", "🌺"],
   },
@@ -82,7 +82,7 @@ const envelopes = [
     heartColor: "text-amber-500",
     sticker: "🔥",
     message: `Haa re motuu, i assume if you need motivation so aap ya kisi chiz se darr rhe hoge joh ki hai in future ya aap koi choice soch rhe hoge ki krna chaiye ya nhi ha toh jii phele ek brr apne aap se pucho ki mujhe kya krna chaiye konsi choice lu toh ye hoga ya dusri lu toh ye hoga uske baad result pr aao orr agr iske baad bhi kuch samjh na aae toh mere paas aao hehehe, but haa please kisi aise se mtt puchna jisko aapki fikr hi na ho ya woh dono choice se sehmat hoo okayyy🤞💕🫶. \n\n
-    ab aate hai agr apko darr lg rha hai toh tohh betuu darna waali baat nhi hai sb jo bhi hoga acha hogaa aapne apna best diya toh jo bhi hoga ab acha hi hoga iski tesnion mt lo bss darro mt aaram see nosyyy se lambiiii saas lo aur bhar chhoro orr ghabrao mt sb acha hoga apkii ki hui sarri chiz sarri mehnat ka result acha ayega or sad nhii hone ka or na jyada sochne ka mind ko thoda relax rakh bacha orr agr relax nhi hora toh call krr meko heheh ya phir ghr vlo ke pass jake unko pareshann kroo bhen ko kutt do pakad ke prr overthink na krna bss 🌟🔥💕.`,
+    ab aate hai agr apko darr lg rha hai toh tohh betuu darna waali baat nhi hai sb jo bhi hoga acha hoga aap bhot mhenat kroge and uska result bhi bhot acha aayega agr kisi vzh se ya kya kisi situation ki vzh se khuch bigad jata hain to aap sad hoke ya ese hi beth nhi skte aapko phir se himmat dikahni padegi or phir se mhenat krni hogi kuki wo himmat dikhana bhot jruri hain or sad nhii hone ka hena pareshan bhi nhi hone ka or na jyada sochne ka mind ko thoda relax rakh bacha orr agr relax nhi hora toh call krr msg krr mai to hemsha hu hi tere liye yha ya phir ghr vlo ke pass jake unko pareshann kroo unse baatein krro bhen ko kutt do pakad ke evii ya usse baatein krro prr overthink na krna bss 🌟🔥💕.`,
     deco: ["🌟", "🔥", "✨"],
   },
   {
@@ -94,7 +94,7 @@ const envelopes = [
     sealColor: "bg-fuchsia-300",
     heartColor: "text-fuchsia-500",
     sticker: "🎉",
-    message: `HAPPY BIRTHDAY, YOU My Love! 🎉\n\nYe Puri site issi ke lie hai \n\nfeel every thing in this website you will feel my love for you my care my everything just feel me🎉 and yaa you were alyways special for me alwaysss. \n\nAurr wish tohh hai hii sherr ke lie 🎂✨🎊`,
+    message: `HAPPY BIRTHDAY, YOU My Love! 🎉\n\nYe Puri site issi ke lie hai \n\nfeel every thing in this website you will feel my love for you my care my everything just feel me🎉 and yaa you were alwayss special for me alwaysss. \n\nAurr wish tohh hai hii sherr ke lie 🎂✨🎊`,
     deco: ["🎉", "🎂", "🥳"],
   },
 ];
