@@ -50,8 +50,8 @@ const envelopes = [
     heartColor: "text-pink-400",
     sticker: "⭐",
     message: `Bhooootttttttt pitogeeeeee bhoootttttttt \n\n
-    hahhahah, kyuu nhi aari jii ninni kya hua akele ho? ye to sochna bhi mtt samjhe hu na mai overthinking ho rhi hain? tension ho rhi hain?
-    itna kuch na socho bacha agr meri yaad aari hai toh miss me vla envelope padho or agr \n\n tension hori hai toh bina tension liye bacha thoda sa sojao thodi si ninni lelo vrna ese \n\n apki tabiyat khrb hojyegi or phir time lgta hai thik hone mai or phir aapkoo medecines leni padengi to ye to achi baat nhi hain na \n\n khrab nhi krni tabiyat sojao bhagwann ji kaa dhyan krke sarra unn prr chhor ke please sojao, \n\n or agr ese late sone jaaoge to uncle se daat khaani padegi aapko or mera bacha bina vzh daat ku khaye hena isliye bhi jldi se so jaao or jb uthoge na soke ek bhot ache mood se uthoge aap and phir acha bhi feel hoga\n\n
+    hahhahah, kyuu nhi aari jii ninni kya hua akele ho? ye to sochna bhi mtt samjhe. or kya overthinking ho rhi hain? tension ho rhi hain?
+    itna kuch na socho bacha agr meri yaad aari hai toh miss me vla envelope padho or agr \n\n tension hori hai toh bina tension liye bacha thoda sa sojao thodi si ninni lelo vrna ese \n\n apki tabiyat khrb hojyegi or phir time lgta hai thik hone mai or phir aapkoo medecines leni padengi to ye to achi baat nhi hain na \n\n khrab nhi krni tabiyat sojao bhagwann ji kaa dhyan krke sarra unn prr chhor ke please sojao, \n\n or agr ese late sone jaaoge to uncle se daat khaani padegi subha aapko late uthne ki vzh se or mera bacha bina vzh daat ku khaye hena isliye bhi jldi se so jaao or jb uthoge na soke ek bhot ache mood se uthoge aap and phir acha bhi feel hoga aapko\n\n
     isliye abhi cute sa betu sojao Goodnight mera pyaara Bachaa🌛💕\n\n`,
     deco: ["🌛", "⭐", "💤"],
   },
@@ -66,10 +66,10 @@ const envelopes = [
     sticker: "💞",
     message: `oHhhh bhayiiiii \n\n
     phele hi bta rha hu santi se sun lo bss chup chap beth ke \n\n
-    akele nhii hooo mai huu apke sathh apke pass hu mana thode din ke milna bnd ho gya hain prr sath rhena nhi\n\n
+    akele nhii hooo mai huu apke sathh apke pass hu mana thode dino ke liye milna bnd ho gya hain prr sath rhena nhi\n\n
     thik hai isliye bakwass naa krna kii mai alone hori nooo not at all mai aapke sath hu apake liye hrr jagah hu Hamesha apni ladai ho ya na ho \n\n
     prr mai apke sath hu apke pass hu and bacha u know na hum ab lifelong sath rhenge to bss aapke khene pai mai ese aapko akela ni na chhor skta or mera bacha chaye kitna bhi gussa ho jaaye mai hmesha usse apne pyaar se shaant krwaunga or uske sath hi rhunga kuki mera bacha bss mera hain \n\n
-    chaye kuch bhi ho samjee got It na I love youu I love youu so muchh!! \n\n chlo jaldi ab call kro mujhe hehe bhut baatey krege hum🫂💖`,
+    chaye kuch bhi ho samjee got It na I love youu I love youu so muchh!! \n\n chlo jaldi ab call kro ya msg krro mujhe hehe bhut baatey krege hum🫂💖`,
     deco: ["🫂", "💖", "🌺"],
   },
   {
